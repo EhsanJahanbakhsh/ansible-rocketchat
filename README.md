@@ -1,6 +1,6 @@
-Hello everyone <3
-Rocket.Chat
-One click installation on VM
+#Hello everyone <3
+#Rocket.Chat
+#One click installation on VM
 MongoDB and Rocket.Chat Ansible Playbooks
 This repository contains Ansible playbooks for automating the deployment and configuration of MongoDB and Rocket.Chat, two essential components in modern web applications. The MongoDB playbook streamlines the installation process, ensuring proper authentication and replication setup for enhanced security and reliability. It includes tasks for handling keyfile creation and replica set initialization, crucial for maintaining a robust MongoDB environment.
 
